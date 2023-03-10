@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 My first readme
 
@@ -8,3 +9,5 @@ My first readme
 My updated first readme
 
 >>>>>>> cf12407ed18d269f7969f42fda3a0372675669c4
+=======
+>>>>>>> 9a609c7... How to be up to date in git
